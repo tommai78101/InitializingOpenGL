@@ -65,6 +65,7 @@ Appendix .......................................................................
 |November 8, 2018 ~ November 26, 2018|Personal Vacation Trip|N/A|
 |November 28, 2018 ~ December 10, 2018|Finish the Appendix (Postponed)|10|
 |January 28, 2019 ~ February 24, 2019|Finish the Appendix|10|
+|***February 9, 2019 ~ February 24, 2019***|***Feedback Phase***|***N/A***|
 |February 25, 2018 ~ April 1, 2019|Continue creating OpenGL context|10|
 |May 2019 ~ July 2019|Get triangle showing up|15|
 |August 2019 ~ October 2019|Boilerplate code in C and C++|25|
