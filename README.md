@@ -2,6 +2,13 @@
 
 A book written in my own spare time, that has notes on how to begin an OpenGL project.
 
+|OpenGL versions|Goals|
+|:---:|:---|
+|1.0|Initialization only|
+|any|Depends on book progress|
+|4.5+|End goal|
+
+
 Currently, the book is not done, but I am releasing an "alpha" version of the book. It's provided both as a DOCX file, and a PDF file for viewing pleasures. This is a reward for you searching and lurking on Github, or that somehow this book was found by a search engine, and you just so happened to see this book appearing in the search results. And thus, it is why this book is secretly hidden away online.
 
 DOCX file must embed system fonts for compatibilty with Windows, MacOS X, and Ubuntu/Linux.
@@ -113,6 +120,7 @@ Just state the summary of the topic and list out what you wished to read about. 
 
 * PcChip
 * SkyrimForSwitch
+* silwr
 
 ### Other contributors
 
