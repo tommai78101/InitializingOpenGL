@@ -108,6 +108,11 @@ Just state the summary of the topic and list out what you wished to read about. 
 * yellows8  
 * smea  
 
+### Reddit Contributors
+
+* PcChip
+* SkyrimForSwitch
+
 ### Other contributors
 
 * The ##programming Freenode IRC channel  
