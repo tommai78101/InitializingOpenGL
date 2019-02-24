@@ -6,7 +6,7 @@ A book written in my own spare time, that has notes on how to begin an OpenGL pr
 |:---:|:---|
 |1.0|Initialization only|
 |any|Depends on book progress|
-|4.5+|End goal|
+|4.6|End goal|
 
 
 Currently, the book is not done, but I am releasing an "alpha" version of the book. It's provided both as a DOCX file, and a PDF file for viewing pleasures. This is a reward for you searching and lurking on Github, or that somehow this book was found by a search engine, and you just so happened to see this book appearing in the search results. And thus, it is why this book is secretly hidden away online.
@@ -20,45 +20,41 @@ Scroll on down to see the future roadmap. Table of Contents will be updated when
 ## Table of Contents
 
 ```
-Preface ................................................................................................. 1
-
-Chapter 1 ............................................................................................... 3
-  Installation .......................................................................................... 4
-  Picking Your Poison ................................................................................... 5
-  Development Setup ..................................................................................... 6
-
-Chapter 2 .............................................................................................. 10
-  Creation of a Window ................................................................................. 11
-  A Dummy OpenGL Context ............................................................................... 15
-    The Pixel Format Descriptor ........................................................................ 16
-    Understanding Pixel Formats ........................................................................ 19
-    Choosing and Setting a Pixel Format ................................................................ 23
-  Initialization of OpenGL ............................................................................. 25
-
-REFERENCES ............................................................................................. 28
-
-Appendix ................................................................................................ i
-  A Hungarian Notation Trick ........................................................................... ii
-  Documented Quirks ..................................................................................... v
-    ShowWindow Getting Ignored on First Invocation ...................................................... v
-  The “sprintf” History ................................................................................ vi
-  Byte Ordering (Part 1/3) ............................................................................. ix
-  A Unicode Primer (Part 2/3) .......................................................................... xi
-    What is Unicode? .................................................................................. xii
-    UCS-2 ............................................................................................. xii
-    UTF-16 ............................................................................................ xii
-    UCS-4 and UTF-32 .................................................................................. xvi
-    UTF-1 ............................................................................................ xvii
-    UTF-8 ............................................................................................. xxi
-    What is next? .................................................................................... xxiv
-  Applying Unicode (Part 3/3) ......................................................................... xxv
-    Making Common Functions ........................................................................... xxv
-    Converting UTF-16 to UTF-8 ..................................................................... xxviii
-    Converting UTF-8 to UTF-16 ...................................................................... xxxvi
-    Converting UTF-32 to UTF-8 ....................................................................... xlii
-    Converting UTF-8 to UTF-32 ........................................................................ xlv
-    Converting UTF-32 to UTF-16 ....................................................................... xlv
-    Converting UTF-16 to UTF-32 ....................................................................... xlv
+PREFACE .............................................................1
+CHAPTER 1 ...........................................................3
+	Installation.....................................................4
+	Picking Your Poison..............................................5
+	Development Setup................................................6
+CHAPTER 2...........................................................10
+	Creation of a Window............................................11
+	A Dummy OpenGL Context..........................................15
+	The Pixel Format Descriptor.....................................16
+		Understanding Pixel Formats.................................19
+		Choosing and Setting a Pixel Format.........................23
+	Initialization of OpenGL........................................26
+REFERENCES..........................................................29
+APPENDIX............................................................33
+	A Hungarian Notation Trick.......................................i
+	Documented Quirks...............................................iv
+		ShowWindow Getting Ignored on First Invocation..............iv
+	The “sprintf” History............................................v
+	Byte Ordering (Part 1/3)......................................viii
+	A Unicode Primer (Part 2/3)......................................x
+		What is Unicode?............................................xi
+		UCS-2.......................................................xi
+		UTF-16......................................................xi
+		UCS-4 and UTF-32............................................xv
+		UTF-1......................................................xvi
+		UTF-8.......................................................xx
+		What is next?............................................xxiii
+	Applying Unicode (Part 3/3)...................................xxiv
+		Making Common Functions...................................xxiv
+		Converting UTF-16 to UTF-8...............................xxvii
+		Converting UTF-8 to UTF-16................................xxxv
+		Converting UTF-32 to UTF-8.................................xli
+		Converting UTF-8 to UTF-32................................xliv
+		Converting UTF-32 to UTF-16...............................xlix
+		Converting UTF-16 to UTF-32................................liv
 ```
 
 ------
@@ -73,16 +69,19 @@ Appendix .......................................................................
 |November 28, 2018 ~ December 10, 2018|Finish the Appendix (Postponed)|10|
 |January 28, 2019 ~ February 24, 2019|Finish the Appendix|10|
 |***February 9, 2019 ~ February 24, 2019***|***Feedback Phase***|***N/A***|
-|February 25, 2018 ~ April 1, 2019|Continue creating OpenGL context|10|
+|February 25, 2019 ~ March 1, 2019|Do tax returns (Time may change!)|N/A|
+|March 1, 2019 ~ March 17, 2019|Rewrite "Initialization of OpenGL" in Chapter 2|5|
+|March 1, 2019 ~ April 1, 2019|Continue creating OpenGL context|10|
 |May 2019 ~ July 2019|Get triangle showing up|15|
 |August 2019 ~ October 2019|Boilerplate code in C and C++|25|
 |Future|Depends on Issues/Feedback|N/A|
 
 <div style="display: inline-block; height: 30px;"></div>
 
-|Estimated final page count|
-|--:|
-|110 pages|
+|Estimated final total pages count (not including Appendix)|Current total pages count (not including Appendix)|
+|--:|--:|
+|110|33|
+
 
 ------
 
@@ -115,6 +114,10 @@ Just state the summary of the topic and list out what you wished to read about. 
 * fincs  
 * yellows8  
 * smea  
+
+### Github Contributors
+
+* nickrolfe
 
 ### Reddit Contributors
 
