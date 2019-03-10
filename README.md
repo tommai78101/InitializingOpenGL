@@ -4,7 +4,8 @@ A book written in my own spare time, that has notes on how to begin an OpenGL pr
 
 |OpenGL versions|Goals|
 |:---:|:---|
-|1.0|Initialization only|
+|1.X, 2.X, 3.2+, 4.X|Initialization only|
+|3.1|Outlier OpenGL support|
 |any|Depends on book progress|
 |4.6|End goal|
 
@@ -128,9 +129,11 @@ Just state the summary of the topic and list out what you wished to read about. 
 ### Other contributors
 
 * The ##programming Freenode IRC channel  
-* The ##javascript Freenode IRC channel  
+* The ##javascript Freenode IRC channel 
+* The Khronos Group
 * Stack Overflow  
 * Microsoft  
+* Google
 * MSDN Community  
 * MSDN Docs  
 * Reddit
