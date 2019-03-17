@@ -27,15 +27,19 @@ CHAPTER 1 ......................................................................
 	Picking Your Poison ....................................................... 5 
 	Development Setup ......................................................... 6 
 CHAPTER 2 ........................................................................ 10 
-	Choosing an OpenGL Version ............................................... 11 
-		Drawbacks of Very Old OpenGL Versions ............................ 12 
-		Consider the Not-So-Old OpenGL Versions .......................... 14 
-	Creation of a Window ..................................................... 19 
-	A Dummy OpenGL Context ................................................... 23 
-		The Pixel Format Descriptor ...................................... 24 
-		Understanding Pixel Formats ...................................... 27 
-		Choosing and Setting a Pixel Format .............................. 31 
-	Initialization of OpenGL ................................................. 34 
+	Choosing an OpenGL Version ............................................... 11
+		Drawbacks of Very Old OpenGL Versions ............................ 12
+		Consider the Not-So-Old OpenGL Versions .......................... 14
+	Creation of a Window ..................................................... 16
+		Using the WinMain() Entry Point .................................. 17
+		Using the Main() Entry Point ..................................... 19
+	A Dummy OpenGL Context ................................................... 21
+		The Pixel Format Descriptor ...................................... 22
+		Understanding Pixel Formats ...................................... 25
+		Choosing and Setting a Pixel Format .............................. 29
+	Initialization of OpenGL ................................................. 32
+		Introduction to Loading Libraries ................................ 32
+		Modularizing our Entry Points .................................... 33
 REFERENCES ....................................................................... 38 
 APPENDIX ......................................................................... 42 
 	A Hungarian Notation Trick ................................................ i 
