@@ -30,18 +30,23 @@ CHAPTER 2 ......................................................................
 	Choosing an OpenGL Version ............................................... 11
 		Drawbacks of Very Old OpenGL Versions ............................ 12
 		Consider the Not-So-Old OpenGL Versions .......................... 14
-	Creation of a Window ..................................................... 16
-		Using the WinMain() Entry Point .................................. 17
-		Using the Main() Entry Point ..................................... 19
-	A Dummy OpenGL Context ................................................... 21
-		The Pixel Format Descriptor ...................................... 22
-		Understanding Pixel Formats ...................................... 25
-		Choosing and Setting a Pixel Format .............................. 29
-	Initialization of OpenGL ................................................. 32
-		Introduction to Loading Libraries ................................ 32
-		Modularizing our Entry Points .................................... 33
-REFERENCES ....................................................................... 38 
-APPENDIX ......................................................................... 42 
+		Summarized OpenGL Initialization Steps ........................... 16
+	Creation of a Window ..................................................... 17
+		Using the WinMain() Entry Point .................................. 18
+		Using the Main() Entry Point ..................................... 20
+	A Dummy OpenGL Context ................................................... 22
+		The Pixel Format Descriptor ...................................... 23
+		Understanding Pixel Formats ...................................... 26
+		Choosing and Setting a Pixel Format .............................. 30
+	Initialization of OpenGL ................................................. 33
+		Introduction to Loading Libraries ................................ 33
+		Modularizing our Entry Points .................................... 35
+	Summary .................................................................. 45
+		Full Source Code (Including Notes) ............................... 45
+
+REFERENCES ....................................................................... 57 
+
+APPENDIX ......................................................................... 61 
 	A Hungarian Notation Trick ................................................ i 
 	Documented Quirks ........................................................ iv 
 		ShowWindow Getting Ignored on First Invocation ................... iv 
@@ -88,7 +93,7 @@ APPENDIX .......................................................................
 
 |Estimated final total pages count (not including Appendix)|Current total pages count (not including Appendix)|
 |--:|--:|
-|110|33|
+|110|57|
 
 
 ------
@@ -137,6 +142,7 @@ Just state the summary of the topic and list out what you wished to read about. 
 
 * The ##programming Freenode IRC channel  
 * The ##javascript Freenode IRC channel 
+* The ##opengl Freenode IRC channel 
 * The Khronos Group
 * Stack Overflow  
 * Microsoft  
