@@ -26,27 +26,27 @@ CHAPTER 1 ......................................................................
 	Installation .............................................................. 4 
 	Picking Your Poison ....................................................... 5 
 	Development Setup ......................................................... 6 
-CHAPTER 2 ........................................................................ 10 
-	Choosing an OpenGL Version ............................................... 11
-		Drawbacks of Very Old OpenGL Versions ............................ 12
-		Consider the Not-So-Old OpenGL Versions .......................... 14
-		Summarized OpenGL Initialization Steps ........................... 16
-	Creation of a Window ..................................................... 17
-		Using the WinMain() Entry Point .................................. 18
-		Using the Main() Entry Point ..................................... 20
-	A Dummy OpenGL Context ................................................... 22
-		The Pixel Format Descriptor ...................................... 23
-		Understanding Pixel Formats ...................................... 26
-		Choosing and Setting a Pixel Format .............................. 30
-	Initialization of OpenGL ................................................. 33
-		Introduction to Loading Libraries ................................ 33
-		Modularizing our Entry Points .................................... 35
-	Summary .................................................................. 45
-		Full Source Code (Including Notes) ............................... 45
+CHAPTER 2 ........................................................................ 11
+	Choosing an OpenGL Version ............................................... 12
+		Drawbacks of Very Old OpenGL Versions ............................ 13
+		Consider the Not-So-Old OpenGL Versions .......................... 15
+		Summarized OpenGL Initialization Steps ........................... 17
+	Creation of a Window ..................................................... 18
+		Using the WinMain() Entry Point .................................. 19
+		Using the Main() Entry Point ..................................... 21
+	A Dummy OpenGL Context ................................................... 23
+		The Pixel Format Descriptor ...................................... 24
+		Understanding Pixel Formats ...................................... 27
+		Choosing and Setting a Pixel Format .............................. 31
+	Initialization of OpenGL ................................................. 34
+		Introduction to Loading Libraries ................................ 34
+		Modularizing our Entry Points .................................... 36
+	Summary .................................................................. 46
+		Full Source Code (Including Notes) ............................... 46
 
-REFERENCES ....................................................................... 57 
+REFERENCES ....................................................................... 58 
 
-APPENDIX ......................................................................... 61 
+APPENDIX ......................................................................... 62 
 	A Hungarian Notation Trick ................................................ i 
 	Documented Quirks ........................................................ iv 
 		ShowWindow Getting Ignored on First Invocation ................... iv 
