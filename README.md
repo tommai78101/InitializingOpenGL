@@ -74,7 +74,7 @@ APPENDIX .......................................................................
 
 ## Roadmap
 
-(Updated: January 1, 2019 - Included scheduling conflicts with real-life into the timeline.)
+(Updated: January 1, 2019 - Included scheduling conflicts with real-life into the timeline.)   
 (Updated: March 20, 2019 - Adjusting schedule to update the book only on weekends.)
 
 |Timeline|Topic of Interests|Estimated page counts|
