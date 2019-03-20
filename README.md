@@ -75,6 +75,7 @@ APPENDIX .......................................................................
 ## Roadmap
 
 (Updated: January 1, 2019 - Included scheduling conflicts with real-life into the timeline.)
+(Updated: March 20, 2019 - Adjusting schedule to update the book only on weekends.)
 
 |Timeline|Topic of Interests|Estimated page counts|
 |:---|:---|---:|
@@ -131,6 +132,7 @@ Just state the summary of the topic and list out what you wished to read about. 
 ### Github Contributors
 
 * nickrolfe
+* gogoprog (Issue #13)
 
 ### Reddit Contributors
 
