@@ -41,6 +41,9 @@ CHAPTER 2 ......................................................................
 	Initialization of OpenGL ................................................. 34
 		Introduction to Loading Libraries ................................ 34
 		Modularizing our Entry Points .................................... 36
+	Hybrid Graphics Support .................................................. 37
+		Brief History of Intel Integrated Graphics ....................... 37
+		Handling the Consequences of Dual Graphics ....................... 39
 	Summary .................................................................. 46
 		Full Source Code (Including Notes) ............................... 46
 
