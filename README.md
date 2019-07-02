@@ -1,6 +1,6 @@
 # Initializing OpenGL: <span style="font-size: 75%">A Sadistic Approach to Modern OpenGL</span>
 
-A book written in my own spare time, that has notes on how to begin an OpenGL project.
+A book written in my own spare time, that has notes on how to begin an OpenGL project. The main goal of writing this book, is so a complete beginner can follow along and learn as much as they can with a ton of information as possible.
 
 |OpenGL versions|Goals|
 |:---:|:---|
