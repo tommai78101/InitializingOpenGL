@@ -99,7 +99,7 @@ APPENDIX .......................................................................
 
 This is what I planned to add to Chapter 3 before something happened in real life:
 
-<img src="https://github.com/tommai78101/InitializingOpenGL/images/hexagon.gif" />
+<img src="https://raw.githubusercontent.com/tommai78101/InitializingOpenGL/master/images/hexagon.gif" />
 
 <div style="display: inline-block; height: 30px;"></div>
 
