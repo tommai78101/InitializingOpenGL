@@ -154,6 +154,7 @@ Just state the summary of the topic and list out what you wished to read about. 
 
 ### Other contributors
 
+* Martijn Steinrucken
 * The ##programming Freenode IRC channel  
 * The ##javascript Freenode IRC channel 
 * The ##opengl Freenode IRC channel 
