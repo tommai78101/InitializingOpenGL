@@ -79,6 +79,7 @@ APPENDIX .......................................................................
 
 (Updated: January 1, 2019 - Included scheduling conflicts with real-life into the timeline.)   
 (Updated: March 20, 2019 - Adjusting schedule to update the book only on weekends.)
+(Updated: August 4, 2019 - Finished Triangle/Hexagon OpenGL back in July, was about to write book, but real life got in the way.)
 
 |Timeline|Topic of Interests|Estimated page counts|
 |:---|:---|---:|
@@ -90,8 +91,15 @@ APPENDIX .......................................................................
 |March 1, 2019 ~ March 17, 2019|Rewrite "Initialization of OpenGL" in Chapter 2|5|
 |March 1, 2019 ~ April 1, 2019|Continue creating OpenGL context|10|
 |May 2019 ~ July 2019|Get triangle showing up|15|
-|August 2019 ~ October 2019|Boilerplate code in C and C++|25|
-|Future|Depends on Issues/Feedback|N/A|
+|August 2019 ~ October 2019|Boilerplate code in C and C++ **(Delayed)**|25|
+|***August 5, 2019 ~ TBD***|***Real Life Takes Over***|***N/A***|
+|Future|Depends on Issues/Feedback/Real Life|N/A|
+
+## Sneak Peek
+
+This is what I planned to add to Chapter 3 before something happened in real life:
+
+<img src="https://github.com/tommai78101/InitializingOpenGL/images/hexagon.gif" />
 
 <div style="display: inline-block; height: 30px;"></div>
 
